@@ -16,3 +16,7 @@ These instructions assume you're starting from a blank disk image of Octopi.
 You can view all the possible steps by running `./provision`.
 Setting a `LOG_LEVEL` environment variable to `info` will hide the output of the provisioning commands.
 
+
+
+##Alternative configuration?
+http://www.daveconroy.com/turn-your-raspberry-pi-into-a-wifi-hotspot-with-edimax-nano-usb-ew-7811un-rtl8188cus-chipset/
